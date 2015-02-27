@@ -1,0 +1,23 @@
+{
+  "name": "yolk",
+  "version": "0.0.1",
+  "description": "0001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyolk/0001.git"
+  },
+  "keywords": [
+    "yolk",
+    "generative"
+  ],
+  "author": "Joseph Yølk Chiocchi <joe@yolk.cc>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyolk/0001/issues"
+  },
+  "homepage": "https://github.com/yyolk/0001"
+}
